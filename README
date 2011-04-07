@@ -1,0 +1,5 @@
+# Una presentación sobre las migraciones de Rails 2 a Rails 3
+
+Para verla, usar showoff: 
+showoff serve
+
